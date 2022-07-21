@@ -8,15 +8,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Dewansh+Chandra;I+am+a+Compititive+Programmer;Web+Dev;Bike+Enthusiast+%3C3"></a>
 </p>
 
 ---
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on Chatbots and APIs : [Chatbot-discord](https://github.com/CodeWhiteWeb/Chatbot-discord-js)
-  
 🌱 I’m currently learning : Data Structures and Algorithms
 
   👯 I’m looking to collaborate on my webpage
@@ -44,7 +42,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dewansh36&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dewansh36&theme=dracula&hide_border=true)](https://github.com/Dewansh36?tab=repositories)
 ![snake gif](https://github.com/Dewansh36/Dewansh36/blob/output/github-contribution-grid-snake.gif)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewansh36&show_icons=true&locale=en" alt="dewansh36" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dewansh36&theme=dracula&show_icons=true&locale=en&layout=compact" alt="dewansh36" />
 
 
 # Funny Riddles , Test your brain 🤓
