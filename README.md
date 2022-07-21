@@ -13,20 +13,6 @@
 
 ---
 <div align="center">
-  
-# 💫About Me :
-🌱 I’m currently learning : Data Structures and Algorithms
-
-  👯 I’m looking to collaborate on my webpage
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "web.dewansh.chandra@gmail.com" or 
-  scroll to bottom of the page of "https://dewanshchandra.herokuapp.com" and find CONTACT ME
-
-⚡ Fun fact: Grass is greener on the other side
-
 
 <h3>Connect with me:</h3>
 <p>
